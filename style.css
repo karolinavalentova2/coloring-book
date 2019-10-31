@@ -1,0 +1,11 @@
+body {text-align: center;}
+
+/*svg {margin: auto}*/
+
+.container {
+    max-width: 500px;
+}
+
+.swatch, #colors > path {
+    cursor: pointer
+}
