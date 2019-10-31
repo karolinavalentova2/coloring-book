@@ -1,0 +1,14 @@
+<svg id="active-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63.26 63.26">
+  <defs>
+    <style>
+      .active-swatch {
+        fill: #fff;
+        stroke: #aaa;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>active-color</title>
+  <rect class="active-swatch" x="1.5" y="1.5" width="60.26" height="60.26" rx="17.87"/>
+</svg>

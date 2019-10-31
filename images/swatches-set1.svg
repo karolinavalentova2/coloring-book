@@ -1,9 +1,11 @@
-<svg id="colors" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 647.49 80.68">
+<svg id="swatches" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 274.72 136.19">
   <title>swatches-set1</title>
-  <rect id="purple" class="cls-1" width="80.68" height="80.68" rx="22.98" fill="#6a0dfc"/>
-  <rect id="blue" class="cls-2" x="113.36" width="80.68" height="80.68" rx="22.98" fill="#4e06ff"/>
-  <rect id="pink" class="cls-3" x="226.72" width="80.68" height="80.68" rx="22.98" fill="#f9d4d4"/>
-  <rect id="yellow" class="cls-4" x="340.09" width="80.68" height="80.68" rx="22.98" fill="#ffe810"/>
-  <rect id="orange" class="cls-5" x="453.45" width="80.68" height="80.68" rx="22.98" fill="#fcb22d"/>
-  <rect id="red" class="cls-6" x="566.81" width="80.68" height="80.68" rx="22.98" fill="#ff5d15"/>
+  <rect class="swatch" width="60.26" height="60.26" rx="17.87" fill="#6a0dfc"></rect>
+  <rect class="swatch" x="71.49" width="60.26" height="60.26" rx="17.87" fill="#4e06ff"></rect>
+  <rect class="swatch" x="142.98" width="60.26" height="60.26" rx="17.87" fill="#f9d4d4"></rect>
+  <rect class="swatch" y="75.93" width="60.26" height="60.26" rx="17.87" fill="#ffe810"></rect>
+  <rect class="swatch" x="71.49" y="75.93" width="60.26" height="60.26" rx="17.87" fill="#fcb22d"></rect>
+  <rect class="swatch" x="142.98" y="75.93" width="60.26" height="60.26" rx="17.87" fill="#ff5d15"></rect>
+  <rect class="swatch" x="214.47" y="75.93" width="60.26" height="60.26" rx="17.87" fill="#303030"></rect>
+  <rect class="swatch" x="214.47" width="60.26" height="60.26" rx="17.87" fill="#606060"></rect>
 </svg>

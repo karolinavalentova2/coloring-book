@@ -3,9 +3,39 @@ body {text-align: center;}
 /*svg {margin: auto}*/
 
 .container {
-    max-width: 500px;
+    max-width: 442px;
 }
 
-.swatch, #colors > path {
+.swatch, .active-swatch, #colors > path {
     cursor: pointer
+}
+
+.swatches-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pick-swatch {
+    max-width: 304px;
+    width: 65vw;
+}
+
+.show-swatch {
+    max-width: 68px;
+    width: 15vw;
+}
+
+.color-caption {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 381px;
+    margin: auto;
+}
+
+@media (max-height: 667px) {
+    .main-svg {
+        max-height: 362px
+    }
+
 }
